@@ -6,7 +6,7 @@ This is a very basic Python scrapy crawling program written for my personal use 
 
 The world has changed ever since COVID-19 visited Malaysia in March 2020. You need to book an appointment online for almost every over-the-counter service in the current post-pandemic era. Some did a fantastic job with their online appointment booking system, but some did otherwise.
 
-It is the same for Malaysia passport over-the-counter renewal, which online appointment is mandatory as well. Online passport renewal is not an option for me due to some restrictions.
+It is the same for Malaysia passport over-the-counter renewal, which online appointment is mandatory as well. _**Online passport renewal is not an option for me due to some restrictions.**_
 
 The following screenshot shows the current online appointment system where you need to perform the selection by clicking the dropdown from top to bottom which date is the last dropdown
 ![Sistem Temujanji Online](https://user-images.githubusercontent.com/532986/163326863-ca3267aa-1ca8-42dd-90ca-96e67dba562e.png)
@@ -22,12 +22,13 @@ The following screenshot shows the current online appointment system where you n
 
 ## My current setup
 
+-   macOS Monterey v12.3.1
 -   Python v3.9.7 (Anaconda v4.11.0)
 -   Scrapy v2.6.1
 -   SQLite v3.36.0 (macOS built-in)
 -   TablePlus v3.12.0
 
-## To run
+## To run at your own risk!
 
 ```bash
     git clone git@github.com:cheetooh/scrapy-imigresen.git
